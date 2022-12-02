@@ -1,0 +1,20 @@
+{
+    "WALLETS": [
+        {
+            "CLASS_NAME": "DOUBLE_WALLET",
+            "NAME": "SIMPLE_WALLET- 1X MULTIPLIER",
+            "DESCRIPTION": "AINDA NAO TESTADO",
+            "SETTINGS": {
+                "lost_multiplier": 1
+            }
+        },
+        {
+            "CLASS_NAME": "DOUBLE_WALLET",
+            "NAME": "DOUBLE_WALLET- 2X MULTIPLIER",
+            "DESCRIPTION": "AINDA NAO TESTADO",
+            "SETTINGS": {
+                "lost_multiplier": 2
+            }
+        }
+    ]
+}

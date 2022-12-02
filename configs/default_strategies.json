@@ -1,0 +1,25 @@
+{
+    "STRATEGIES": [
+        {
+            "CLASS_NAME": "CLOSING_HIGH",
+            "NAME": "Best Closing HIGH",
+            "DESCRIPTION": "AINDA NAO TESTADO",
+            "SETTINGS": {
+                "threshold": 0.17,
+                "bet_after_higher_rounds": 4,
+                "safe_closing_threshold": 0.01,
+                "reverse": true
+            }
+        },{
+            "CLASS_NAME": "CLOSING_LOW",
+            "NAME": "Best Closing LOW",
+            "DESCRIPTION": "AINDA NAO TESTADO",
+            "SETTINGS": {
+                "threshold": 0.06,
+                "bet_after_lower_rounds": 1,
+                "safe_closing_threshold": 0.27,
+                "reverse": false
+            }
+        }
+    ]
+}

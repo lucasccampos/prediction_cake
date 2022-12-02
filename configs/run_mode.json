@@ -1,0 +1,9 @@
+{
+    "BET_BEFORE_SEC":9,
+    "RPC_URL_TXN": "https://bscrpc.com",
+    "RPC_URL": "https://rpc.ankr.com/bsc",
+    "GAS_PRICE": 5.5,
+    "GAS_LIMIT": 200000,
+    "SAFE_GAP": 0.15,
+    "DELAY_RELOAD":30
+}

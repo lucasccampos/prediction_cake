@@ -1,0 +1,9 @@
+{
+    "ACCOUNTS": [
+        {
+            "NAME": "MY_WALLET",
+            "WALLET_ADDRESS": "",
+            "PRIVATE_KEY": ""
+        }
+    ]
+}
