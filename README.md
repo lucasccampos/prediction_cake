@@ -19,8 +19,11 @@ Bot para apostas descentralizadas no site da [Pancake](https://pancakeswap.finan
 
 ### Backtesting
 > Exemplo resultado do backtesting.
+
 > começando com 1000$ na carteira.
+
 > apostando 5$ em cada round apostado.
+
 > usando Martingale em cada perca.
 
 ![alt text](https://github.com/lucasccampos/prediction_cake/blob/master/screenshots/backtesting_result.jpg?raw=true)
