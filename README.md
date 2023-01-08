@@ -1,8 +1,8 @@
 # Prediction Bot
-## Sobre
-Bot para apostas descentralizadas no site da [Pancake](https://pancakeswap.finance/prediction?token=BNB), use médias, RSI, ou um conjunto de indicadores como estratégia para apostar automaticamente.
+## About
+Bot for decentralized bets on the [Pancake](https://pancakeswap.finance/prediction?token=BNB), using averages, RSI, or a set of indicators as a strategy to automatically bet.
 
-> Este bot foi criado para uso pessoal, boa parte de suas dependencias não estão aqui neste projeto.
+> This bot was created for personal use, much of its dependencies are not here in this project.
 
 
 ### Tech
@@ -13,17 +13,17 @@ Bot para apostas descentralizadas no site da [Pancake](https://pancakeswap.finan
 
 
 ## Features
- - Estratégias baseadas em indicadores gráficos;
- - Backtesting de estratégias com dados onchain;
+ - Strategies based on chart indicators;
+ - Backtesting of strategies with onchain data;
 
 
 ### Backtesting
-> Exemplo resultado do backtesting.
+> Example result of backtesting.
 
-> começando com 1000$ na carteira.
+> starting with $1000 in the wallet.
 
-> apostando 5$ em cada round apostado.
+> betting $5 on each bet round.
 
-> usando Martingale em cada perca.
+> using Martingale on each loss.
 
 ![alt text](https://github.com/lucasccampos/prediction_cake/blob/master/screenshots/backtesting_result.jpg?raw=true)
